@@ -1,9 +1,9 @@
 # VSCode
-.vscode/*
+.vscode/
 
 
 # Quartus Prime output files
-output/files
+output_files/
 *.rpt
 *.chg
 *.smsg
