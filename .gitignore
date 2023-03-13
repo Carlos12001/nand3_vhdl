@@ -85,7 +85,6 @@ db/
 incremental_db/
 simulation/
 *.qar
-*.qsf
 *.qpf
 *.qsf~
 *.qws~
