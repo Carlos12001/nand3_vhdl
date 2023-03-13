@@ -3,6 +3,7 @@
 
 
 # Quartus Prime output files
+output/files
 *.rpt
 *.chg
 *.smsg
