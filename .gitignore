@@ -84,8 +84,6 @@ Thumbs.db
 db/
 incremental_db/
 simulation/
-*.qar
-*.qpf
 *.qsf~
 *.qws~
 *.tcl~
